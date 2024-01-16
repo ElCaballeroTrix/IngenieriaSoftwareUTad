@@ -125,7 +125,7 @@ int main()
 
 }
 
-
+//Function that detects player inputs for bullet and movement of player
 void GetInputs() {
     
     //Input Left Key Shoot Left
