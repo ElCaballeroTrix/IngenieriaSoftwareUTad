@@ -216,5 +216,7 @@ void PrintConsole(){
     system("CLS");
 }
 
-//Deberia petar aqui
+//Aquí esta bien
 //ERROR.....ERROR
+//¡¡¡¡¡CONFLICTO!!!!!
+//Aquí esta bien otra vez
