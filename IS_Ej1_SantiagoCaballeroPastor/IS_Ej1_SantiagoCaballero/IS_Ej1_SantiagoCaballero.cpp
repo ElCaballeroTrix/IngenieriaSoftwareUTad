@@ -147,6 +147,8 @@ void GetInputs() {
         playerPosition++;
     }
 }
+
+//Movement of bullet
 void BulletMovement() {
     //**Left Bullet Movement**
     if (bulletLeftExists) {
