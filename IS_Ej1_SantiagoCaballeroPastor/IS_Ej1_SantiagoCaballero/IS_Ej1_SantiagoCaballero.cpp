@@ -215,4 +215,5 @@ void PrintConsole(){
     Sleep(500);
     system("CLS");
 }
+
 //Deberia petar aqui
