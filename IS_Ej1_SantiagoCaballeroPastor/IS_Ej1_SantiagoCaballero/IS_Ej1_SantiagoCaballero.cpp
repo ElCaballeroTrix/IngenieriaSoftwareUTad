@@ -176,7 +176,7 @@ void BulletMovement() {
     }
 }
 void EnemyMovement() {
-    //**Left Enemy Movement**
+    //**Left Enemy Movement*
     if (!enemyLeftDead) {
         enemyLeftPosition++;
         salida[enemyLeftPosition] = 'E';
