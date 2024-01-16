@@ -217,3 +217,4 @@ void PrintConsole(){
 }
 
 //Aquí esta bien
+//¡¡¡¡¡CONFLICTO!!!!!
