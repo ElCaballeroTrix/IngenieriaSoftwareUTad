@@ -216,4 +216,4 @@ void PrintConsole(){
     system("CLS");
 }
 
-//Deberia petar aqui
+//Aquí esta bien
