@@ -218,3 +218,4 @@ void PrintConsole(){
 
 //Aquí esta bien
 //¡¡¡¡¡CONFLICTO!!!!!
+//Aquí esta bien otra vez
